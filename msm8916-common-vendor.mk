@@ -68,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libMcClient.so:system/vendor/lib/libMcClient.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libOmxVdecHevc.so:system/vendor/lib/libOmxVdecHevc.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libatparser.so:system/vendor/lib/libatparser.so \
-    vendor/samsung/msm8916-common/proprietary/vendor/lib/libaudio-ril.so:system/vendor/lib/libaudio-ril.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libcordon.so:system/vendor/lib/libcordon.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libedmnativehelper.so:system/vendor/lib/libedmnativehelper.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libexifa.so:system/vendor/lib/libexifa.so \
@@ -79,7 +78,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libmmcamera_interface.so:system/vendor/lib/libmmcamera_interface.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libmmjpeg_interface.so:system/vendor/lib/libmmjpeg_interface.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libomission_avoidance.so:system/vendor/lib/libomission_avoidance.so \
-    vendor/samsung/msm8916-common/proprietary/vendor/lib/libplayready_v2.5.so:system/vendor/lib/libplayready_v2.5.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libqomx_core.so:system/vendor/lib/libqomx_core.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libseckeyprov.so:system/vendor/lib/libseckeyprov.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
@@ -191,10 +189,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libtzplayready.so:system/vendor/lib/libtzplayready.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/msm8916-common/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-    vendor/samsung/msm8916-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/samsung/msm8916-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
-    vendor/samsung/msm8916-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
-    vendor/samsung/msm8916-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
     vendor/samsung/msm8916-common/proprietary/vendor/media/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd \
     vendor/samsung/msm8916-common/proprietary/vendor/media/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd
 
